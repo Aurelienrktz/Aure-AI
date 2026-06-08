@@ -8,7 +8,7 @@ import { systemPrompt } from "./prompt.js";
 const portfolioData = fs.readFileSync("./data.json", "utf-8");
 
 dotenv.config();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 8002;
 
 const app = e();
 app.use(cors());

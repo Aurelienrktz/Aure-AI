@@ -1,0 +1,161 @@
+{
+  "profile": {
+    "name": "RAKOTOZANAKA Aurelien",
+    "birth_date": "11 juillet 2004",
+    "origin": "Tamatave, Madagascar",
+    "current_location": "Antananarivo, Madagascar ",
+    "title": "Développeur Agent IA / Automatisation / Front-End",
+    "summary": "  <b>RAKOTOZANAKA Aurelien</b> est un étudiant malgache de 22 ans actuellement en 3ème année à l'ISPM dans la filière ESIIA. Il est spécialisé dans le développement Front-End, les agents IA, les systèmes RAG et l'automatisation de workflows. Il conçoit des applications modernes et des solutions intelligentes destinées à améliorer l'expérience utilisateur et la productivité.",
+    "education": {
+      "institution": "ISPM (Institut Supérieur Polytechnique de Madagascar)",
+      "current_year": "3ème année de Licence (2026)",
+      "field": "ESIIA – Électronique, Systèmes Informatiques et Intelligence Artificielle",
+      "previous_degrees": [
+        {
+          "degree": "Baccalauréat Série Scientifique",
+          "mention": "Assez-Bien",
+          "school": "Lycée Jacques Rabemananjara de Tamatave"
+        },
+        {
+          "degree": "BEPC",
+          "school": "CEG Ratsimilaho de Tamatave"
+        },
+        {
+          "degree": "CEPE",
+          "school": "École privée La Base de Tamatave"
+        }
+      ]
+    },
+    "contacts": {
+      "email": "aurelienrakotozanaka07@gmail.com",
+      "phone": "+261 38 63 422 31",
+      "github": "Aurelienrktz"
+    }
+  },
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "C#", "HTML", "CSS"],
+    "ai_and_automation": [
+      "Agents IA",
+      "RAG (Retrieval-Augmented Generation)",
+      "LLM (Google AI Studio, Groq, Llama)",
+      "n8n",
+      "Docker",
+      "Prompt engineering "
+    ],
+    "frontend_and_software": [
+      "React.js",
+      "Node.js",
+      "Express",
+      "WPF",
+      "Tailwind CSS",
+      "Figma",
+      "GitHub"
+    ],
+    "spoken_languages": ["Malagasy (maternelle)", "Français", "Anglais"]
+  },
+  "certifications": [
+    {
+      "title": "Foundational C# with Microsoft",
+      "issuer": "FreeCodeCamp & Microsoft",
+      "description": "Validation des bases du langage C#, de la syntaxe fondamentale, de la POO (Programmation Orientée Objet) et de la logique logicielle, exploitée notamment sur le développement desktop avec WPF."
+    },
+    {
+      "title": "JavaScript Algorithms and Data Structures",
+      "issuer": "FreeCodeCamp",
+      "description": "Maîtrise du langage JavaScript, de l'algorithmique avancée, de la gestion des structures de données (tableaux, objets), des fonctions et de la récursivité."
+    },
+    {
+      "title": "Responsive Web Design",
+      "issuer": "FreeCodeCamp",
+      "description": "Compétences en conception d'interfaces web adaptatives et accessibles (Flexbox, CSS Grid) orientées vers une expérience utilisateur optimale sur mobile, tablette et desktop."
+    }
+  ],
+  "projects": [
+    {
+      "id": "mateo",
+      "name": "Mateo ",
+      "category": "IA & Automatisation",
+      "year": "2026",
+      "role": "Développeur IA & DevOps / Automatisation",
+      "company": "Materauto (Stage)",
+      "technologies": ["Node.js", "LLM", "RAG", "Odoo", "n8n", "Docker"],
+      "description": "Agent IA conversationnel multilingue intégré au du site officiel de Materauto pour automatiser la relation client.",
+      "details": "L'architecture repose sur une approche RAG exploitant les données internes de l'entreprise pour fournir des réponses fiables sur les véhicules, les fiches techniques, les actualités et les recrutements. Équipé d'un outil de recherche web pour compléter ses connaissances si besoin. L'agent capture les coordonnées des prospects pour les transmettre aux responsables, ce qui a drastiquement réduit la charge de travail du service client. Intégration de flux d'automatisation pour la mise à jour des données."
+    },
+    {
+      "id": "mateo_interne_odoo",
+      "name": "Agent IA Interne",
+      "category": "IA & Automatisation",
+      "year": "2026",
+      "role": "Développeur IA & DevOps / Automatisation",
+      "company": "Materauto (Stage)",
+      "technologies": ["Odoo", "RAG", "LLM", "n8n", "Docker"],
+      "description": "Assistant IA conçu spécifiquement pour optimiser les flux de travail internes des collaborateurs de Materauto.",
+      "details": "Intégré au module Discussion d'Odoo, cet agent assiste en temps réel les commerciaux, magasiniers et techniciens. Grâce au RAG, il interroge les bases de données de l'entreprise pour répondre sur les références de pièces de rechange, les compatibilités inter-marques, la répartition des stocks et fournir des conseils de maintenance technique, améliorant ainsi la productivité interne."
+    },
+    {
+      "id": "carrybot",
+      "name": "CarryBot",
+      "category": "Robotique & Web",
+      "role": "Designer & Développeur Front-End",
+      "technologies": ["React", "Programmation embarquée", "UI/UX Design"],
+      "description": "Projet académique de robot mobile autonome dédié au transport d'objets.",
+      "details": "Conception d'un robot capable de se déplacer de manière autonome, de détecter et d'éviter les obstacles. J'ai conçu et développé l'interface utilisateur web permettant de contrôler le robot et de suivre ses interactions à distance."
+    },
+    {
+      "id": "movieflow",
+      "name": "MovieFlow",
+      "category": "Web App",
+      "role": "Développeur Front-End",
+      "technologies": ["React", "REST API", "UI/UX Design"],
+      "description": "Application web moderne de découverte de films et de séries utilisant une API de données cinématographiques.",
+      "details": "Mise en place d'une navigation fluide, d'un système de recommandations et d'une architecture React optimisée axée sur une expérience utilisateur moderne."
+    },
+    {
+      "id": "ourstation",
+      "name": "OurStation",
+      "category": "Web App / Gestion",
+      "role": "Développeur Front-End",
+      "technologies": [
+        "JavaScript",
+        "Base de données",
+        "Architecture Logicielle"
+      ],
+      "description": "Application de gestion pour les parkings et centres de lavage automobile.",
+      "details": "Centralisation et optimisation de la gestion des véhicules, des services clients et des opérations financières courantes face à des problématiques de gestion réelles."
+    },
+    {
+      "id": "stock_eo",
+      "name": "Stock-EO",
+      "category": "Desktop App",
+      "role": "Développeur Logiciel Front-End",
+      "technologies": ["C#", "WPF", "Architecture Applicative"],
+      "description": "Application desktop de gestion de stock complète.",
+      "details": "Intègre le suivi en temps réel des produits, l'évaluation des quantités disponibles et un système d'alertes automatiques lorsque le stock atteint des niveaux critiques."
+    },
+    {
+      "id": "make_it_shine",
+      "name": "Make It Shine",
+      "category": "Site Vitrine",
+      "role": "Développeur Front-End (Premier projet pro)",
+      "technologies": ["HTML", "CSS", "UI/UX Design"],
+      "description": "Site vitrine élégant et clair destiné à une coiffeuse professionnelle pour mettre en valeur ses services, réalisations et tarifs."
+    },
+    {
+      "id": "e_ketrika",
+      "name": "E-ketrika",
+      "category": "E-commerce",
+      "role": "Développeur Front-End",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "description": "Site de vente de téléphones doté d'un système de filtres et d'une recherche de produits avancée."
+    },
+    {
+      "id": "fbml",
+      "name": "FBML",
+      "category": "Site Vitrine",
+      "role": " Front-End",
+      "technologies": ["HTML", "CSS"],
+      "description": "Site web de partage de recettes de cuisine réalisé lors de ma première année universitaire à l'ISPM."
+    }
+  ]
+}
